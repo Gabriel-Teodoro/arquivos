@@ -1,0 +1,22 @@
+.title{
+    font-size: 25px;
+    color: indigo;
+    font-weight: 750
+    ;
+}
+
+.detail_car{
+    padding: 10px;
+    background-color: black;
+}
+
+.color_car{
+    color: #FFF;
+}
+
+.new_car{
+    color: aquamarine;
+}
+.old_car{
+    color: goldenrod;
+}
