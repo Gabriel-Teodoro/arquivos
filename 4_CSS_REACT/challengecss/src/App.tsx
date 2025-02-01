@@ -1,9 +1,7 @@
-import { useState } from 'react'
 import './App.css'
 import CarDetails from './components/CarDetails'
 
 function App() {
-  const [count, setCount] = useState(0)
   const cars = [
     { id: 1,brand: "Toyota", km: 0, color: "Preto", newCar: true },
     { id: 2,brand: "Honda", km: 15000, color: "Vermelho", newCar: false },
